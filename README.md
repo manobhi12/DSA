@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/manobhi12/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/manobhi12/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/manobhi12/DSA/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/manobhi12/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/manobhi12/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manobhi12/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/manobhi12/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/manobhi12/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/manobhi12/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/manobhi12/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/manobhi12/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/manobhi12/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/manobhi12/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
