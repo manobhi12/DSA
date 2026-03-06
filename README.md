@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/manobhi12/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/manobhi12/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/manobhi12/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/manobhi12/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/manobhi12/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/manobhi12/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/manobhi12/DSA/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/manobhi12/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/manobhi12/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/manobhi12/DSA/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/manobhi12/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
