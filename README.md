@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/manobhi12/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/manobhi12/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/manobhi12/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/manobhi12/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/manobhi12/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/manobhi12/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/manobhi12/DSA/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/manobhi12/DSA/tree/master/0048-rotate-image) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/manobhi12/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
