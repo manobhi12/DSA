@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/manobhi12/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/manobhi12/DSA/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/manobhi12/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/manobhi12/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/manobhi12/DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/manobhi12/DSA/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/manobhi12/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/manobhi12/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/manobhi12/DSA/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/manobhi12/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
