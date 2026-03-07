@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/manobhi12/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/manobhi12/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/manobhi12/DSA/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/manobhi12/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/manobhi12/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/manobhi12/DSA/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
