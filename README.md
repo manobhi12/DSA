@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/manobhi12/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/manobhi12/DSA/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/manobhi12/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Array
 |  |
 | ------- |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/manobhi12/DSA/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/manobhi12/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
