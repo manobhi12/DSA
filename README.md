@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/manobhi12/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manobhi12/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/manobhi12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/manobhi12/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/manobhi12/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/manobhi12/DSA/tree/master/0441-arranging-coins) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/manobhi12/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manobhi12/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/manobhi12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/manobhi12/DSA/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/manobhi12/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/manobhi12/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/manobhi12/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/manobhi12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/manobhi12/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/manobhi12/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/manobhi12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/manobhi12/DSA/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manobhi12/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/manobhi12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/manobhi12/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/manobhi12/DSA/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
