@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/manobhi12/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/manobhi12/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/manobhi12/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/manobhi12/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/manobhi12/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manobhi12/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/manobhi12/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/manobhi12/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/manobhi12/DSA/tree/master/0290-word-pattern) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/manobhi12/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/manobhi12/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/manobhi12/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/manobhi12/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/manobhi12/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
