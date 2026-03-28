@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/manobhi12/DSA/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/manobhi12/DSA/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/manobhi12/DSA/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/manobhi12/DSA/tree/master/0595-big-countries) |
 ## Trie
 |  |
 | ------- |
