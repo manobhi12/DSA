@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/manobhi12/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/manobhi12/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/manobhi12/DSA/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/manobhi12/DSA/tree/master/1002-find-common-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/manobhi12/DSA/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/manobhi12/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/manobhi12/DSA/tree/master/0724-find-pivot-index) |
+| [1002-find-common-characters](https://github.com/manobhi12/DSA/tree/master/1002-find-common-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/manobhi12/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/manobhi12/DSA/tree/master/0409-longest-palindrome) |
 | [0575-distribute-candies](https://github.com/manobhi12/DSA/tree/master/0575-distribute-candies) |
+| [1002-find-common-characters](https://github.com/manobhi12/DSA/tree/master/1002-find-common-characters) |
 ## Linked List
 |  |
 | ------- |
