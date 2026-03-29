@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/manobhi12/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/manobhi12/DSA/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/manobhi12/DSA/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/manobhi12/DSA/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/manobhi12/DSA/tree/master/0561-array-partition) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/manobhi12/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
