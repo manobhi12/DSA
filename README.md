@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/manobhi12/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/manobhi12/DSA/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/manobhi12/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/manobhi12/DSA/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manobhi12/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/manobhi12/DSA/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
