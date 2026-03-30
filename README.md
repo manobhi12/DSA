@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/manobhi12/DSA/tree/master/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/manobhi12/DSA/tree/master/1185-day-of-the-week) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manobhi12/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1360-number-of-days-between-two-dates](https://github.com/manobhi12/DSA/tree/master/1360-number-of-days-between-two-dates) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/manobhi12/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/manobhi12/DSA/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/manobhi12/DSA/tree/master/1002-find-common-characters) |
+| [1360-number-of-days-between-two-dates](https://github.com/manobhi12/DSA/tree/master/1360-number-of-days-between-two-dates) |
 ## Binary Search
 |  |
 | ------- |
