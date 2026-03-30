@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/manobhi12/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/manobhi12/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/manobhi12/DSA/tree/master/0441-arranging-coins) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manobhi12/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/manobhi12/DSA/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/manobhi12/DSA/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/manobhi12/DSA/tree/master/1122-relative-sort-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manobhi12/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/manobhi12/DSA/tree/master/0048-rotate-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manobhi12/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
 |  |
 | ------- |
