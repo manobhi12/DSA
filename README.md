@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-day-of-the-week](https://github.com/manobhi12/DSA/tree/master/1185-day-of-the-week) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manobhi12/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/manobhi12/DSA/tree/master/1360-number-of-days-between-two-dates) |
+| [1399-count-largest-group](https://github.com/manobhi12/DSA/tree/master/1399-count-largest-group) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/manobhi12/DSA/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/manobhi12/DSA/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manobhi12/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1399-count-largest-group](https://github.com/manobhi12/DSA/tree/master/1399-count-largest-group) |
 ## Linked List
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
+| [1399-count-largest-group](https://github.com/manobhi12/DSA/tree/master/1399-count-largest-group) |
 ## Greedy
 |  |
 | ------- |
