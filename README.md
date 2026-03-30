@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/manobhi12/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/manobhi12/DSA/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/manobhi12/DSA/tree/master/0605-can-place-flowers) |
+| [0697-degree-of-an-array](https://github.com/manobhi12/DSA/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/manobhi12/DSA/tree/master/0724-find-pivot-index) |
 | [1002-find-common-characters](https://github.com/manobhi12/DSA/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/manobhi12/DSA/tree/master/1089-duplicate-zeros) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/manobhi12/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/manobhi12/DSA/tree/master/0409-longest-palindrome) |
 | [0575-distribute-candies](https://github.com/manobhi12/DSA/tree/master/0575-distribute-candies) |
+| [0697-degree-of-an-array](https://github.com/manobhi12/DSA/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/manobhi12/DSA/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/manobhi12/DSA/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manobhi12/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
