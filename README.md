@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/manobhi12/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/manobhi12/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1251-average-selling-price](https://github.com/manobhi12/DSA/tree/master/1251-average-selling-price) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/manobhi12/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Trie
 |  |
 | ------- |
