@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/manobhi12/DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/manobhi12/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/manobhi12/DSA/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/manobhi12/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/manobhi12/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/manobhi12/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/manobhi12/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/manobhi12/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/manobhi12/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/manobhi12/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/manobhi12/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/manobhi12/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manobhi12/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/manobhi12/DSA/tree/master/0136-single-number) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/manobhi12/DSA/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manobhi12/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manobhi12/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/manobhi12/DSA/tree/master/0112-path-sum) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/manobhi12/DSA/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/manobhi12/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/manobhi12/DSA/tree/master/0079-word-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manobhi12/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
 |  |
@@ -326,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/manobhi12/DSA/tree/master/0724-find-pivot-index) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/manobhi12/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
