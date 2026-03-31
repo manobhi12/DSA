@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/manobhi12/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/manobhi12/DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/manobhi12/DSA/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/manobhi12/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/manobhi12/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/manobhi12/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manobhi12/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/manobhi12/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/manobhi12/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manobhi12/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/manobhi12/DSA/tree/master/0338-counting-bits) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/manobhi12/DSA/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/manobhi12/DSA/tree/master/0064-minimum-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manobhi12/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
 |  |
