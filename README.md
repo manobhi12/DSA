@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/manobhi12/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/manobhi12/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/manobhi12/DSA/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/manobhi12/DSA/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/manobhi12/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/manobhi12/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/manobhi12/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -336,4 +337,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/manobhi12/DSA/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/manobhi12/DSA/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
