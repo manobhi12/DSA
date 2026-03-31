@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/manobhi12/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/manobhi12/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manobhi12/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/manobhi12/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manobhi12/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/manobhi12/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/manobhi12/DSA/tree/master/0344-reverse-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/manobhi12/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/manobhi12/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manobhi12/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/manobhi12/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manobhi12/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/manobhi12/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/manobhi12/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/manobhi12/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/manobhi12/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manobhi12/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/manobhi12/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manobhi12/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/manobhi12/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/manobhi12/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/manobhi12/DSA/tree/master/0191-number-of-1-bits) |
@@ -347,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/manobhi12/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/manobhi12/DSA/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/manobhi12/DSA/tree/master/0113-path-sum-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/manobhi12/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
