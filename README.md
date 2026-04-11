@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/manobhi12/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/manobhi12/DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/manobhi12/DSA/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/manobhi12/DSA/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/manobhi12/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/manobhi12/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/manobhi12/DSA/tree/master/0093-restore-ip-addresses) |
