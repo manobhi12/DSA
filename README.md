@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/manobhi12/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/manobhi12/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/manobhi12/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/manobhi12/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/manobhi12/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/manobhi12/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/manobhi12/DSA/tree/master/0066-plus-one) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manobhi12/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/manobhi12/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/manobhi12/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/manobhi12/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/manobhi12/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manobhi12/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manobhi12/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/manobhi12/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/manobhi12/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/manobhi12/DSA/tree/master/0190-reverse-bits) |
