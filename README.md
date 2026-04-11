@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manobhi12/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/manobhi12/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manobhi12/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/manobhi12/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/manobhi12/DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/manobhi12/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/manobhi12/DSA/tree/master/0067-add-binary) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manobhi12/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manobhi12/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manobhi12/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/manobhi12/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/manobhi12/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/manobhi12/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manobhi12/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
