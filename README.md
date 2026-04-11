@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manobhi12/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/manobhi12/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manobhi12/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/manobhi12/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/manobhi12/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/manobhi12/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/manobhi12/DSA/tree/master/0162-find-peak-element) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/manobhi12/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manobhi12/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/manobhi12/DSA/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/manobhi12/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/manobhi12/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manobhi12/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manobhi12/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -413,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manobhi12/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/manobhi12/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
