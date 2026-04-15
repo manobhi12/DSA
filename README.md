@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/manobhi12/DSA/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/manobhi12/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/manobhi12/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/manobhi12/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manobhi12/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/manobhi12/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/manobhi12/DSA/tree/master/0258-add-digits) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/manobhi12/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/manobhi12/DSA/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/manobhi12/DSA/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/manobhi12/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manobhi12/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/manobhi12/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/manobhi12/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manobhi12/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/manobhi12/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manobhi12/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/manobhi12/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/manobhi12/DSA/tree/master/0349-intersection-of-two-arrays) |
