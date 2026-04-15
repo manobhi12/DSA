@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/manobhi12/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/manobhi12/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/manobhi12/DSA/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/manobhi12/DSA/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/manobhi12/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/manobhi12/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/manobhi12/DSA/tree/master/0202-happy-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/manobhi12/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/manobhi12/DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/manobhi12/DSA/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/manobhi12/DSA/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/manobhi12/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/manobhi12/DSA/tree/master/0179-largest-number) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/manobhi12/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/manobhi12/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manobhi12/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/manobhi12/DSA/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manobhi12/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manobhi12/DSA/tree/master/0202-happy-number) |
@@ -451,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/manobhi12/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/manobhi12/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
