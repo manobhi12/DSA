@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/manobhi12/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manobhi12/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/manobhi12/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/manobhi12/DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/manobhi12/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/manobhi12/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/manobhi12/DSA/tree/master/0162-find-peak-element) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/manobhi12/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/manobhi12/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/manobhi12/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/manobhi12/DSA/tree/master/0130-surrounded-regions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/manobhi12/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manobhi12/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/manobhi12/DSA/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/manobhi12/DSA/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/manobhi12/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/manobhi12/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/manobhi12/DSA/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/manobhi12/DSA/tree/master/0130-surrounded-regions) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manobhi12/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
 |  |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/manobhi12/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/manobhi12/DSA/tree/master/0130-surrounded-regions) |
 ## Binary Search Tree
 |  |
 | ------- |
