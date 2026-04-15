@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/manobhi12/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/manobhi12/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/manobhi12/DSA/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/manobhi12/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/manobhi12/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/manobhi12/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/manobhi12/DSA/tree/master/0389-find-the-difference) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/manobhi12/DSA/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manobhi12/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/manobhi12/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/manobhi12/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/manobhi12/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/manobhi12/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/manobhi12/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/manobhi12/DSA/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/manobhi12/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/manobhi12/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/manobhi12/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/manobhi12/DSA/tree/master/0231-power-of-two) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manobhi12/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/manobhi12/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/manobhi12/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Counting Sort
 |  |
@@ -476,4 +480,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/manobhi12/DSA/tree/master/0164-maximum-gap) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/manobhi12/DSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/manobhi12/DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
