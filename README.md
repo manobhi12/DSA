@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/manobhi12/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/manobhi12/DSA/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/manobhi12/DSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/manobhi12/DSA/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/manobhi12/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/manobhi12/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/manobhi12/DSA/tree/master/0179-largest-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/manobhi12/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/manobhi12/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/manobhi12/DSA/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/manobhi12/DSA/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/manobhi12/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/manobhi12/DSA/tree/master/0179-largest-number) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manobhi12/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/manobhi12/DSA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/manobhi12/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/manobhi12/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/manobhi12/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manobhi12/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manobhi12/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/manobhi12/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/manobhi12/DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manobhi12/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/manobhi12/DSA/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/manobhi12/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/manobhi12/DSA/tree/master/0509-fibonacci-number) |
 ## Database
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manobhi12/DSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/manobhi12/DSA/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -330,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manobhi12/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/manobhi12/DSA/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/manobhi12/DSA/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
