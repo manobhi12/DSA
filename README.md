@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/manobhi12/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/manobhi12/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/manobhi12/DSA/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/manobhi12/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manobhi12/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/manobhi12/DSA/tree/master/0441-arranging-coins) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/manobhi12/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/manobhi12/DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/manobhi12/DSA/tree/master/0130-surrounded-regions) |
+| [0279-perfect-squares](https://github.com/manobhi12/DSA/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/manobhi12/DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/manobhi12/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/manobhi12/DSA/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/manobhi12/DSA/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/manobhi12/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/manobhi12/DSA/tree/master/0509-fibonacci-number) |
 ## Database
