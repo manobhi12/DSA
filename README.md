@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/manobhi12/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/manobhi12/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/manobhi12/DSA/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/manobhi12/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/manobhi12/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manobhi12/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/manobhi12/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/manobhi12/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/manobhi12/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/manobhi12/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/manobhi12/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/manobhi12/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/manobhi12/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/manobhi12/DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/manobhi12/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0264-ugly-number-ii](https://github.com/manobhi12/DSA/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/manobhi12/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/manobhi12/DSA/tree/master/0509-fibonacci-number) |
 ## Database
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manobhi12/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/manobhi12/DSA/tree/master/0264-ugly-number-ii) |
 ## Union-Find
 |  |
 | ------- |
