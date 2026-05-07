@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/manobhi12/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/manobhi12/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/manobhi12/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/manobhi12/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/manobhi12/DSA/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/manobhi12/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/manobhi12/DSA/tree/master/0551-student-attendance-record-i) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manobhi12/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/manobhi12/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/manobhi12/DSA/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
