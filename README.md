@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/manobhi12/DSA/tree/master/0436-find-right-interval) |
 | [0454-4sum-ii](https://github.com/manobhi12/DSA/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/manobhi12/DSA/tree/master/0456-132-pattern) |
+| [0494-target-sum](https://github.com/manobhi12/DSA/tree/master/0494-target-sum) |
 | [0561-array-partition](https://github.com/manobhi12/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/manobhi12/DSA/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/manobhi12/DSA/tree/master/0605-can-place-flowers) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/manobhi12/DSA/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/manobhi12/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/manobhi12/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/manobhi12/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/manobhi12/DSA/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/manobhi12/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/manobhi12/DSA/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/manobhi12/DSA/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/manobhi12/DSA/tree/master/0494-target-sum) |
 ## Merge Sort
 |  |
 | ------- |
