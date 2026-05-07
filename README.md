@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/manobhi12/DSA/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/manobhi12/DSA/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/manobhi12/DSA/tree/master/0456-132-pattern) |
+| [0658-find-k-closest-elements](https://github.com/manobhi12/DSA/tree/master/0658-find-k-closest-elements) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manobhi12/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Array
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/manobhi12/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manobhi12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/manobhi12/DSA/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/manobhi12/DSA/tree/master/0658-find-k-closest-elements) |
 | [0697-degree-of-an-array](https://github.com/manobhi12/DSA/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/manobhi12/DSA/tree/master/0724-find-pivot-index) |
 | [1002-find-common-characters](https://github.com/manobhi12/DSA/tree/master/1002-find-common-characters) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/manobhi12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/manobhi12/DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manobhi12/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/manobhi12/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/manobhi12/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/manobhi12/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/manobhi12/DSA/tree/master/0917-reverse-only-letters) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/manobhi12/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manobhi12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/manobhi12/DSA/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/manobhi12/DSA/tree/master/0658-find-k-closest-elements) |
 | [1122-relative-sort-array](https://github.com/manobhi12/DSA/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manobhi12/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manobhi12/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/manobhi12/DSA/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manobhi12/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/manobhi12/DSA/tree/master/0658-find-k-closest-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/manobhi12/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/manobhi12/DSA/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/manobhi12/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/manobhi12/DSA/tree/master/0658-find-k-closest-elements) |
 ## Union-Find
 |  |
 | ------- |
