@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manobhi12/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/manobhi12/DSA/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/manobhi12/DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/manobhi12/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/manobhi12/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/manobhi12/DSA/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/manobhi12/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/manobhi12/DSA/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manobhi12/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/manobhi12/DSA/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/manobhi12/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0575-distribute-candies](https://github.com/manobhi12/DSA/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/manobhi12/DSA/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/manobhi12/DSA/tree/master/1002-find-common-characters) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/manobhi12/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manobhi12/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/manobhi12/DSA/tree/master/0413-arithmetic-slices) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/manobhi12/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
