@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/manobhi12/DSA/tree/master/0384-shuffle-an-array) |
 | [0413-arithmetic-slices](https://github.com/manobhi12/DSA/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/manobhi12/DSA/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/manobhi12/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/manobhi12/DSA/tree/master/0436-find-right-interval) |
 | [0561-array-partition](https://github.com/manobhi12/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/manobhi12/DSA/tree/master/0575-distribute-candies) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/manobhi12/DSA/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/manobhi12/DSA/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/manobhi12/DSA/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/manobhi12/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/manobhi12/DSA/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
