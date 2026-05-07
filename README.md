@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/manobhi12/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/manobhi12/DSA/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/manobhi12/DSA/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/manobhi12/DSA/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/manobhi12/DSA/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/manobhi12/DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/manobhi12/DSA/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/manobhi12/DSA/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manobhi12/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manobhi12/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/manobhi12/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/manobhi12/DSA/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/manobhi12/DSA/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/manobhi12/DSA/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/manobhi12/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/manobhi12/DSA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/manobhi12/DSA/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/manobhi12/DSA/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/manobhi12/DSA/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/manobhi12/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/manobhi12/DSA/tree/master/0605-can-place-flowers) |
