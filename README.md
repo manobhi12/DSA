@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/manobhi12/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manobhi12/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/manobhi12/DSA/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/manobhi12/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/manobhi12/DSA/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/manobhi12/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/manobhi12/DSA/tree/master/0551-student-attendance-record-i) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manobhi12/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/manobhi12/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manobhi12/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/manobhi12/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/manobhi12/DSA/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/manobhi12/DSA/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/manobhi12/DSA/tree/master/1002-find-common-characters) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/manobhi12/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/manobhi12/DSA/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/manobhi12/DSA/tree/master/0436-find-right-interval) |
+| [0451-sort-characters-by-frequency](https://github.com/manobhi12/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/manobhi12/DSA/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/manobhi12/DSA/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manobhi12/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manobhi12/DSA/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/manobhi12/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1399-count-largest-group](https://github.com/manobhi12/DSA/tree/master/1399-count-largest-group) |
 ## Greedy
 |  |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manobhi12/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/manobhi12/DSA/tree/master/0264-ugly-number-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/manobhi12/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -526,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/manobhi12/DSA/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/manobhi12/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
 | ------- |
