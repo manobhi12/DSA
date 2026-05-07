@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/manobhi12/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/manobhi12/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/manobhi12/DSA/tree/master/0344-reverse-string) |
+| [0385-mini-parser](https://github.com/manobhi12/DSA/tree/master/0385-mini-parser) |
 | [0389-find-the-difference](https://github.com/manobhi12/DSA/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/manobhi12/DSA/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manobhi12/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manobhi12/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manobhi12/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/manobhi12/DSA/tree/master/0143-reorder-list) |
+| [0385-mini-parser](https://github.com/manobhi12/DSA/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/manobhi12/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/manobhi12/DSA/tree/master/0402-remove-k-digits) |
 ## Tree
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/manobhi12/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/manobhi12/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/manobhi12/DSA/tree/master/0130-surrounded-regions) |
+| [0385-mini-parser](https://github.com/manobhi12/DSA/tree/master/0385-mini-parser) |
 ## Breadth-First Search
 |  |
 | ------- |
