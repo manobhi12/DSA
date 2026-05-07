@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/manobhi12/DSA/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/manobhi12/DSA/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/manobhi12/DSA/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/manobhi12/DSA/tree/master/0456-132-pattern) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manobhi12/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Array
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/manobhi12/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/manobhi12/DSA/tree/master/0436-find-right-interval) |
 | [0454-4sum-ii](https://github.com/manobhi12/DSA/tree/master/0454-4sum-ii) |
+| [0456-132-pattern](https://github.com/manobhi12/DSA/tree/master/0456-132-pattern) |
 | [0561-array-partition](https://github.com/manobhi12/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/manobhi12/DSA/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/manobhi12/DSA/tree/master/0605-can-place-flowers) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/manobhi12/DSA/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/manobhi12/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/manobhi12/DSA/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/manobhi12/DSA/tree/master/0456-132-pattern) |
 ## Tree
 |  |
 | ------- |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/manobhi12/DSA/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/manobhi12/DSA/tree/master/0456-132-pattern) |
 ## Design
 |  |
 | ------- |
@@ -558,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/manobhi12/DSA/tree/master/0384-shuffle-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/manobhi12/DSA/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
