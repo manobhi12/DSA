@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/manobhi12/DSA/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/manobhi12/DSA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/manobhi12/DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/manobhi12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1185-day-of-the-week](https://github.com/manobhi12/DSA/tree/master/1185-day-of-the-week) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manobhi12/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/manobhi12/DSA/tree/master/1360-number-of-days-between-two-dates) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/manobhi12/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/manobhi12/DSA/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/manobhi12/DSA/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/manobhi12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/manobhi12/DSA/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/manobhi12/DSA/tree/master/0724-find-pivot-index) |
 | [1002-find-common-characters](https://github.com/manobhi12/DSA/tree/master/1002-find-common-characters) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/manobhi12/DSA/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/manobhi12/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/manobhi12/DSA/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/manobhi12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/manobhi12/DSA/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manobhi12/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
