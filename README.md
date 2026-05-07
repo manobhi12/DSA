@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/manobhi12/DSA/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/manobhi12/DSA/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/manobhi12/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/manobhi12/DSA/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manobhi12/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/manobhi12/DSA/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/manobhi12/DSA/tree/master/0434-number-of-segments-in-a-string) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/manobhi12/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/manobhi12/DSA/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/manobhi12/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/manobhi12/DSA/tree/master/0402-remove-k-digits) |
 ## Tree
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/manobhi12/DSA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/manobhi12/DSA/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/manobhi12/DSA/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/manobhi12/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/manobhi12/DSA/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/manobhi12/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/manobhi12/DSA/tree/master/0605-can-place-flowers) |
@@ -513,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/manobhi12/DSA/tree/master/0187-repeated-dna-sequences) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/manobhi12/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
