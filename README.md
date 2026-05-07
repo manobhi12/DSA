@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manobhi12/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/manobhi12/DSA/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/manobhi12/DSA/tree/master/0367-valid-perfect-square) |
+| [0384-shuffle-an-array](https://github.com/manobhi12/DSA/tree/master/0384-shuffle-an-array) |
 | [0400-nth-digit](https://github.com/manobhi12/DSA/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manobhi12/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/manobhi12/DSA/tree/master/0441-arranging-coins) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/manobhi12/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manobhi12/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/manobhi12/DSA/tree/master/0377-combination-sum-iv) |
+| [0384-shuffle-an-array](https://github.com/manobhi12/DSA/tree/master/0384-shuffle-an-array) |
 | [0413-arithmetic-slices](https://github.com/manobhi12/DSA/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/manobhi12/DSA/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/manobhi12/DSA/tree/master/0436-find-right-interval) |
@@ -530,4 +532,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/manobhi12/DSA/tree/master/0402-remove-k-digits) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/manobhi12/DSA/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/manobhi12/DSA/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
