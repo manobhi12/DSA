@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/manobhi12/DSA/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/manobhi12/DSA/tree/master/0367-valid-perfect-square) |
 | [0384-shuffle-an-array](https://github.com/manobhi12/DSA/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/manobhi12/DSA/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/manobhi12/DSA/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manobhi12/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/manobhi12/DSA/tree/master/0441-arranging-coins) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/manobhi12/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/manobhi12/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/manobhi12/DSA/tree/master/0231-power-of-two) |
+| [0390-elimination-game](https://github.com/manobhi12/DSA/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/manobhi12/DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/manobhi12/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
